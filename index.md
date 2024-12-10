@@ -9,3 +9,5 @@
 ##### Small header
 
 ###### Smallest header
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
